@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    position: relative;
+    bottom: 0px;
+    padding-top: 200px;
+    background-color:#082032;
+    direction: rtl;
+}
+
+p{
+    position: relative;
+    padding-right: 250px;
+    top: -310px;
+}
+header{
+    position: relative;
+    padding-right: 1200px;
+    top: -400px
+}

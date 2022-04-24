@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    position: relative;
+    bottom: 0px;
+    padding-top: 200px;
+    background-color:#082032;
+    direction: rtl;
+}
+
+p{
+    position: relative;
+    padding-right: 250px;
+    top: -310px;
+}
+.hamz{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+    text-decoration: none;
+    background-color:#9b9b9b;
+    width: 99%;
+    border-radius: 0px 0px 60px 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:  -265px; 
+}
